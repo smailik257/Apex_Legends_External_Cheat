@@ -1,0 +1,6 @@
+keyboard
+pymem
+pynput
+pywin32
+
+eatxwpz
